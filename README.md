@@ -8,9 +8,13 @@ I start coding in 2016.
 
 What I want to perform : 
   > Web Programmation
+
   > Web Design
+  
   > IA - Machine learning
+  
   > Data Science
+  
   > Big Data
 
 
