@@ -14,4 +14,4 @@ What I want to perform :
   * Big Data
 
 
-- 📫 How to reach me: maxime.dousselaere@gmail.com || Mess#4420
+📫 How to reach me: maxime.dousselaere@gmail.com || Mess#4420
