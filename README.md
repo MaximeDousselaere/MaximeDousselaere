@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MaximeDousselaere/MaximeDousselaere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I start coding in 2016.
 
-Here are some ideas to get you started:
+💻 IT BTS (advanced technician's certificate) in Dunkerque (France) 2017-2019.
+💻 IT Engineer in Calais (France) 2019-2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I want to perform : 
+  > Web Programmation
+  > Web Design
+  > IA - Machine learning
+  > Data Science
+  > Big Data
+
+
+- 📫 How to reach me: maxime.dousselaere@gmail.com || Mess#4420
