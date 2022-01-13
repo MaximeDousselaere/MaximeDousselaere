@@ -12,6 +12,7 @@ What I want to perform :
   * IA - Machine learning
   * Data Science
   * Big Data
+  * Android development
 
 
 📫 How to reach me: maxime.dousselaere@gmail.com || Mess#4420
