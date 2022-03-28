@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
 
-I start coding in 2016.
+I am a french developer, I start coding in 2016.
 
 💻 IT BTS (advanced technician's certificate) in Dunkerque (France) 2017-2019. 
 
@@ -15,4 +15,4 @@ What I want to perform :
   * Android development
 
 
-📫 How to reach me: maxime.dousselaere@gmail.com || Mess#4420
+📫 How to reach me: mail : maxime.dousselaere@gmail.com || discord : Mess#4420
