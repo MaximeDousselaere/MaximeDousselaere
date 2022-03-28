@@ -15,4 +15,4 @@ What I want to perform :
   * Android development
 
 
-📫 How to reach me: mail : maxime.dousselaere@gmail.com || discord : Mess#4420
+📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
