@@ -6,7 +6,7 @@ I am a french developer, I start coding in 2016.
 
 💻 IT Engineer in Calais (France) 2019-2022. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobalt&layout=compact)
 
 Currently working on : 
 
