@@ -8,6 +8,8 @@ I am a french developer, I start coding in 2016.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobalt)
 
+![MaximeDousselaere's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximedousselaere&show_icons=true&theme=radical)
+
 📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
 
 
