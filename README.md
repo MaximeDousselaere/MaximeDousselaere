@@ -16,3 +16,5 @@ What I want to perform :
 
 
 📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=tokyonight)
