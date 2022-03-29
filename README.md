@@ -10,7 +10,7 @@ I am a french developer, I start coding in 2016.
 
 Currently working on : 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximedousselaere&repo=word-game)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximedousselaere&repo=word-game&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
