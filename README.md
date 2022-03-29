@@ -6,15 +6,8 @@ I am a french developer, I start coding in 2016.
 
 💻 IT Engineer in Calais (France) 2019-2022. 
 
-What I want to perform : 
-  * Web Programmation
-  * Web Design
-  * IA - Machine learning
-  * Data Science
-  * Big Data
-  * Android development
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobalt)
 
 📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=tokyonight)
+
