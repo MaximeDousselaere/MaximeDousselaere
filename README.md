@@ -8,5 +8,5 @@ I am a french developer, I start coding in 2016.
 
 📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
 
--   ![](https://komarev.com/ghpvc/?username=maximedousselaere)
+![](https://komarev.com/ghpvc/?username=maximedousselaere)
 
