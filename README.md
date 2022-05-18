@@ -6,7 +6,9 @@ I am a french developer, I start coding in 2016.
 
 💻 IT Engineer in Calais (France) 2019-2022. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobalt&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobalt&layout=compact&langs_count=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximedousselaere&theme=cobaltlangs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📫 How to reach me: mail : maxime.dousselaere[at]gmail[dot]com || discord : Mess#4420
 
