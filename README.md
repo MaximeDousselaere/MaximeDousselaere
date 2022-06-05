@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I am a french developer, I start coding in 2016.
+I am a french developer, I started coding in 2016.
 
 💻 IT BTS (advanced technician's certificate) in Dunkerque (France) 2017-2019. 
 
