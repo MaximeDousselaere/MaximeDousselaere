@@ -12,8 +12,7 @@ I am a french developer, I start coding in 2016.
 
 ##Memo commit
 
-🎉 tada : begin a project
-
+🎉 tada : begin a project \\
 🎨 art : improve structure of the code
 
 🔥 fire : remove code or files
