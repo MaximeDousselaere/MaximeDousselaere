@@ -10,9 +10,10 @@ I am a french developer, I start coding in 2016.
 
 ![](https://komarev.com/ghpvc/?username=maximedousselaere&color=blueviolet)
 
-##Memo commit
+## Memo commit
 
-🎉 tada : begin a project \\
+🎉 tada : begin a project 
+
 🎨 art : improve structure of the code
 
 🔥 fire : remove code or files
