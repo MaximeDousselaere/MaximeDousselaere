@@ -10,3 +10,16 @@ I am a french developer, I start coding in 2016.
 
 ![](https://komarev.com/ghpvc/?username=maximedousselaere&color=blueviolet)
 
+##Memo commit
+
+🎉 tada : begin a project
+🎨 art : improve structure of the code
+🔥 fire : remove code or files
+🐛 bug : fix a bug
+✨ feat : introduce new features
+⚡️ perf : improve performance
+🛂 auth : work on authorization
+📱 phone : work on responsive design
+💄 style : add or update the UI
+🥚 egg : add or update an easter egg
+📖 docs : add or update documentation
